@@ -1,0 +1,26 @@
+# credentials
+config.json
+config.yaml
+credentials.json
+credentials.yaml
+
+
+# pkl data
+*.pkl
+
+# Local python packages
+.python_packages/
+
+# Python Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
